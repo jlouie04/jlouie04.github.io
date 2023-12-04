@@ -9,4 +9,4 @@ My github page is https://github.com/jlouie04
 
 * Lab 1
 
-    Lab 1, part 1 was the most interesting to me because it was the first time I actually tried coding something.
+    Lab 1, part 1 was the most interesting to me because it was the first time I actually typed coded something. It was cool to see how much work goes into typing a simple phrase such as 'Hello'.
